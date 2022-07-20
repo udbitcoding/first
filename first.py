@@ -1,0 +1,2 @@
+a = "first"
+print(a)
